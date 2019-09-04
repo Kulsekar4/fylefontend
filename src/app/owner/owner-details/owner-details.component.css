@@ -1,0 +1,14 @@
+.overall {
+    width: 80%;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+    background: white;
+    margin-left: 10%;
+    box-shadow: 2px 5px #0f0d0d;
+    color: #3F3D56;
+    font-size: 20px;
+}
+
+div {
+    margin: 3%;
+}

@@ -1,0 +1,9 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+html,
+body {
+    margin: 0;
+    height: 100%;
+    background-image: url(./assets/main-bgnd.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
